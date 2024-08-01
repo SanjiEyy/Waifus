@@ -1,0 +1,15 @@
+{
+  "name": "random-image-api",
+  "version": "1.0.0",
+  "description": "waifu images",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "author": "Your Sugar Daddy",
+  "license": "MIT"
+}
